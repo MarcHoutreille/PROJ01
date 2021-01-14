@@ -15,9 +15,9 @@ _This one too !_
 
 * unordered
 * list
-	*item 2a
+	* item 2a
 	* item 2b
 
-github.com
+http://github.com
 
 
