@@ -28,3 +28,7 @@ http://github.com
 ![https:/GitHub Logo](https://imgur.com/MkjMySg.png)
 
 ![Yep!](https://i.stack.imgur.com/1dpmw.gif)
+
+```<script type="text/javascript">
+    alert("BECODED!");
+</script>```
