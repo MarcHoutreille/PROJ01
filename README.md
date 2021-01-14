@@ -29,6 +29,9 @@ http://github.com
 
 ![Yep!](https://i.stack.imgur.com/1dpmw.gif)
 
-```<script type="text/javascript">
-    alert("BECODED!");
-</script>```
+```javascript
+function test() {
+ console.log("BECODED!");
+test();
+}
+```
