@@ -27,4 +27,4 @@ http://github.com
 
 ![https:/GitHub Logo](https://imgur.com/MkjMySg.png)
 
-![floppy cat](https://i.imgur.com/vbXIvqb.mp4)
+![Yep!](https://i.stack.imgur.com/1dpmw.gif)
